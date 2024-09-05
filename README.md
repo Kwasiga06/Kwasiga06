@@ -1,6 +1,6 @@
-Yoo, I'm Kwasi
+Yo Yo!, I'm Kwasi
 
-I'm an 18-year-old Computer Science student living in NYC.  
+I'm an 18-year-old Math & Computer Science student living in NYC.  
 
 My passion lies in the digital world, particularly in cybersecurity and software development.  
 
