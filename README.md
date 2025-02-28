@@ -1,4 +1,4 @@
-Yo Yo!, I'm Kwasi
+I'm Kwasi
 
 I'm an 19-year-old Math & Computer Science student living in NYC.  
 
